@@ -1,5 +1,5 @@
 # Crypto Logos
-This project contains more than 100 icons of leading cryptocurrencies in two distinct styles (thumbnails & logos). All logos are provided as *scalable .svg vector files*.
+This project contains more than 100 icons of leading cryptocurrencies in two distinct styles (thumbnails & logos). All logos are provided as **scalable .svg vector files**.
 
 ![Crypto Logos Sample](/thumbnails/sample.jpg)
 
