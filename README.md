@@ -9,3 +9,6 @@ If an icon that you need is missing, please create a new issue or open a pull re
 Simply download the repository and add the crypto logos to your project. 
 
 Alternatively, [you can use this actively updated Github repo as a submodule in your project](https://github.blog/2016-02-01-working-with-submodules/)
+
+## License
+Crypto Logos is licensed under [Mozilla Public License 2.0](https://github.com/cryptoradar-co/crypto-logos/blob/main/LICENSE).
