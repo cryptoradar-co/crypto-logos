@@ -1,5 +1,5 @@
 # Crypto Logos
-This project contains more than 100 logos of leading cryptocurrencies in two distinct styles. All logos are provided as scalable .svg files.
+This project contains more than 100 icons of leading cryptocurrencies in two distinct styles (thumbnails & logos). All logos are provided as scalable .svg files.
 
 The files are entirely free to use. All we ask for is to attribute us as the author (e.g. by setting a link to [our website](https://cryptoradar.co/) or [this repository](https://github.com/cryptoradar-co/crypto-logos) in the legal statements of your website). 
 
