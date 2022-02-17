@@ -1,11 +1,9 @@
 # Crypto Logos
-This project contains more than 100 icons of leading cryptocurrencies in two distinct styles (thumbnails & logos). All logos are provided as **scalable .svg vector files**.
+This project contains more than 100 icons of leading cryptocurrencies in two distinct styles (thumbnails & logos). All logos are provided as **scalable .svg vector files** and are entirely **free to use** for personal and commercial projects.
 
 ![Crypto Logos Sample](/thumbnails/sample.jpg)
 
-The files are entirely **free to use**. All we ask for is to attribute us as the author (e.g. by setting a link to [our website](https://cryptoradar.co/) or [this repository](https://github.com/cryptoradar-co/crypto-logos) in the legal statements of your website). 
-
-If an icon that you need is missing, please create a new issue or open a pull request contribution.
+If an icon that you need is missing, please create a new issue or open a pull request.
 
 ## Installation
 Simply download the repository and add the crypto logos to your project. 
@@ -14,3 +12,12 @@ Alternatively, [you can use this actively updated Github repo as a submodule in 
 
 ## License
 Crypto Logos is licensed under [Mozilla Public License 2.0](https://github.com/cryptoradar-co/crypto-logos/blob/main/LICENSE).
+
+You can use our Crypto Logos practically anywhere - on the web, in mobile apps, and more. Just make sure to attribute us as the author whenever you use them.
+
+## Attribution
+Please set a link to https://cryptoradar.co/crypto-logos or this website when you use Crypto Logos. 
+
+For websites: set a link on the site you use the logo. If you use our logos on multiple webpages on your website, you can also set a link to us in the footer of your website or in the legal statements.
+
+For apps: credit us as the creator of Crypto Logos on your app’s website (compare "For websites") or in the App Store and Google Play store description (something like "Crypto Logos by Cryptoradar" is fine).
