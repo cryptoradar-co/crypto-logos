@@ -16,7 +16,7 @@ Crypto Logos is licensed under [Mozilla Public License 2.0](https://github.com/c
 You can use our Crypto Logos practically anywhere - on the web, in mobile apps, and more. Just make sure to attribute us as the author whenever you use them.
 
 ## Attribution
-Please set a link to https://cryptoradar.co/crypto-logos or this website when you use Crypto Logos. 
+Please set a link to https://cryptoradar.co/ or this website when you use Crypto Logos. 
 
 For websites: set a link on the site you use the logo. If you use our logos on multiple webpages on your website, you can also set a link to us in the footer of your website or in the legal statements.
 
